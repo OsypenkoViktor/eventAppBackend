@@ -14,9 +14,9 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "posky732_polskydb",
-    "password": "DEptGvhjcnmUmWrBn4gj",
-    "database": "posky732_polskydb",
+    "username": "",
+    "password": "",
+    "database": "",
     "host": "localhost",
     "dialect": "mysql"
   }
